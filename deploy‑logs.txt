@@ -1,0 +1,8 @@
+Downloading logs of multi-target app operation with ID 6655cf27-6c92-11f0-91ca-eeee0a961f33 in org 8368b6b8trial / space dev as danartfun@gmail.com...
+OK
+Saving logs to /home/user/projects/risk-management/mta-op-6655cf27-6c92-11f0-91ca-eeee0a961f33...
+  OPERATION.log
+  risk-management-db-deployer.log
+  risk-management.log
+  risk-management-srv.log
+OK
