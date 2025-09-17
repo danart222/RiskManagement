@@ -10,14 +10,14 @@
     "@sap-cloud-sdk/http-client": "^4.1.0",
     "@sap-cloud-sdk/resilience": "3.12.0",
     "@sap/cds": "^9.1.0",
-    "@sap/cds-dk": "^9.1.1",
+    "@sap/cds-dk": "^9.3.2",
     "@sap/cds-foss": "^5.0.1",
     "@sap/xssec": "^4",
     "express": "^4"
   },
   "devDependencies": {
     "@cap-js/sqlite": "^2.0.2",
-    "@sap/cds-dk": ">=8",
+    "@sap/cds-dk": ">=9",
     "@sap/hdi-deploy": "^5.5.0",
     "hdb": "^0.19.12"
   },
